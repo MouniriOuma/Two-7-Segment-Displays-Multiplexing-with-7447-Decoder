@@ -35,3 +35,7 @@ The program uses multiplexing to alternately display the units and tens digits o
 ## Tools
 - MikroC Pro for PIC
 - Proteus 8 Professional
+
+
+
+
